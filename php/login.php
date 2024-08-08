@@ -2,9 +2,9 @@
 
     class Login {
 
-        const HOST = "127.0.0.1";
-        const USER = "root";
-        const PASSWORD = "";
+        const HOST = "185.27.134.11 ";
+        const USER = "if0_37061771";
+        const PASSWORD = "WQ2vFKkcbho";
         const DATABASE = "slippers";
 
         private $db;
